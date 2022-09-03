@@ -5,17 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "Metasound",
-			"Enabled": true
-		},
-		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
 		},
@@ -24,92 +13,44 @@
 			"Enabled": true
 		},
 		{
-			"Name": "StaticMeshEditorModeling",
+			"Name": "Substance",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		},
+		{
+			"Name": "Metasound",
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraFluids",
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "LevelSequenceEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "ProxyLODPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "FullBodyIK",
+			"Enabled": true
+		},
+		{
+			"Name": "Landmass",
 			"Enabled": true
 		},
 		{
 			"Name": "GeometryScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "OSC",
-			"Enabled": true
-		},
-		{
-			"Name": "MIDIDevice",
-			"Enabled": true
-		},
-		{
-			"Name": "UVEditor",
-			"Enabled": true
-		},
-		{
-			"Name": "CodeEditor",
-			"Enabled": true
-		},
-		{
-			"Name": "CodeView",
-			"Enabled": true
-		},
-		{
-			"Name": "HDRIBackdrop",
-			"Enabled": true
-		},
-		{
-			"Name": "ImagePlate",
-			"Enabled": true
-		},
-		{
-			"Name": "Text3D",
-			"Enabled": true
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
-		},
-		{
-			"Name": "AudioGameplay",
-			"Enabled": true
-		},
-		{
-			"Name": "AudioGameplayVolume",
-			"Enabled": true
-		},
-		{
-			"Name": "AudioModulation",
-			"Enabled": true
-		},
-		{
-			"Name": "MotoSynth",
-			"Enabled": true
-		},
-		{
-			"Name": "OSCModulationMixing",
-			"Enabled": true
-		},
-		{
-			"Name": "AssetSearch",
-			"Enabled": true
-		},
-		{
-			"Name": "OpenCVLensDistortion",
-			"Enabled": true
-		},
-		{
-			"Name": "VirtualHeightfieldMesh",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]
