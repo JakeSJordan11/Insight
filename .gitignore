@@ -80,4 +80,4 @@ DerivedDataCache/*
 Mac/*
 
 # Houdini Engine Files
-Plugins/HoudiniEngine/*
+Plugins/Runtime/HoudiniEngine/*
